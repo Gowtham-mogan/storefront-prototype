@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" width="520" height="120" role="img" aria-label="Curbgrip wordmark">
+  <title>Curbgrip</title>
+  <!-- Wordmark: plain text + simple tread mark. Placeholder brand; trademark NOT cleared (CIPO not searched). -->
+  <rect x="0" y="0" width="520" height="120" fill="none"/>
+  <g transform="translate(14,22)" fill="#2F80B7">
+    <rect x="0" y="52" width="76" height="14" rx="3" fill="#12263A"/>
+    <polygon points="6,52 16,16 26,52"/>
+    <polygon points="28,52 38,16 48,52"/>
+    <polygon points="50,52 60,16 70,52"/>
+  </g>
+  <text x="108" y="78" font-family="Manrope, Inter, Arial, Helvetica, sans-serif" font-size="58" font-weight="800" fill="#12263A" letter-spacing="-1">Curb<tspan fill="#2F80B7">grip</tspan></text>
+</svg>

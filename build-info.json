@@ -1,0 +1,19 @@
+{
+  "built_at": "2026-11-10T15:19:50.235Z",
+  "siteUrl": "https://gowtham-mogan.github.io",
+  "basePath": "/storefront-prototype",
+  "routes": [
+    "/",
+    "/products/curbgrip-slip-on-ice-cleats/",
+    "/pages/faq/",
+    "/pages/shipping/",
+    "/pages/returns/",
+    "/pages/privacy/",
+    "/pages/terms/",
+    "/pages/about/",
+    "/pages/contact/",
+    "/cart/",
+    "/404.html"
+  ],
+  "note": "Static prototype generated from the Liquid theme with a mock Shopify context. Not Shopify-native hosting."
+}
